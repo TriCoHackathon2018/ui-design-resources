@@ -7,7 +7,7 @@
   - Iterate!
 
 ### Responsive
-#### Frameworks
+#### Web Frameworks
   - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
   - [Foundation](https://foundation.zurb.com/)
 #### Templates
