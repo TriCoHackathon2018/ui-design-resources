@@ -3,7 +3,7 @@
 ## Good Design is:
 ### User-Centered
   - Construct user stories
-  - Create wireframes
+  - Create wireframes with pencil and paper or digitally with [Mockflow](https://mockflow.com/) or [Wireframe.cc](https://wireframe.cc/)
   - Iterate!
 
 ### Responsive
