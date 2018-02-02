@@ -19,3 +19,7 @@
 - [W3 Accessibility Documentation](https://www.w3.org/standards/webdesign/accessibility)
 - [W3 Validator Tool](https://validator.w3.org/)
 - [How to Design for Color Blindness](http://blog.usabilla.com/how-to-design-for-color-blindness/)
+
+### Learning HTML/CSS/Javascript
+- [Lynda.com](http://lynda.com)
+- [CodeAcademy](http://codeacademy.com)
